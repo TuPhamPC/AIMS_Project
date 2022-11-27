@@ -1,0 +1,5 @@
+Question: Is JAVA a Pass by Value or a Pass by Reference programming language? 
+First of all, we recall what is meant by pass by value or pass by reference.
+●	Pass by value: The method parameter values are copied to another variable and then the copied object is passed to the method. That's why it's called pass by value 
+●	Pass by reference: An alias or reference to the actual parameter is passed to the method. That's why it's called pass by reference.
+=> JAVA is a Pass by Value
